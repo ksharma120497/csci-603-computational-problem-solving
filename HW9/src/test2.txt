@@ -1,0 +1,8 @@
+paintball BLUE 8 5 1
+cow Leo 2 8
+cow Cristiano 10 10
+paintball GREY 4 4 3
+paintball BLACK 12 3 3
+cow Walker 8 0
+cow Harry 6 0
+paintball GREEN 6 5 2
